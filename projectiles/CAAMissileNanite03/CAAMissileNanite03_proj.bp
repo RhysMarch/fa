@@ -60,7 +60,7 @@ ProjectileBlueprint {
         MaxZigZag = 5,
         OnLostTargetLifetime = 0.7,
         TrackTarget = true,
-        TurnRate = 400,
+        TurnRate = 1200,
         UseGravity = false,
         VelocityAlign = true,
         ZigZagFrequency = 0.5,
